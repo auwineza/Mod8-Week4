@@ -1,0 +1,8 @@
+I used ChatGPT (OpenAI) as a support tool to help clarify assignment requirements, debug errors in my Python code, and sanity-check intermediate results while implementing ridge regression and LinUCB.
+
+Libraries used beyond standard Python:
+- pandas: for loading, reshaping, and saving TSV files
+- numpy: for matrix operations and linear algebra
+- scikit-learn: for ridge regression (Part 3)
+
+No other outside sources were used.
